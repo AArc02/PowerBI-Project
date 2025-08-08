@@ -31,10 +31,10 @@ L’objectif est de fournir une vue claire et dynamique sur les ventes, les prof
 ---
 
 ## 📊 Indicateurs et mesures DAX
-- **Total ventes** : somme des ventes.  
+- **Total Sales** : somme des ventes.  
 - **Total Profit** : somme des profits.  
-- **Nombre comandes** : nombre de commandes distinctes.  
-- **Ratio Profit (%)** = `[Total Profit] / [Total Sales] * 100`.  
+- **Order Count** : nombre de commandes distinctes.  
+- **Profit Ratio (%)** = `[Total Profit] / [Total Sales] * 100`.  
 - **Sales Last Year** : ventes de l’année précédente.  
 - **Sales Growth %** : taux de croissance par rapport à l’année passée.  
 - **Top 5 Products** : filtre sur les produits les plus vendus.
@@ -52,9 +52,4 @@ L’objectif est de fournir une vue claire et dynamique sur les ventes, les prof
 - L’Amérique du Nord, l’Europe et l’Asie concentrent la majorité du chiffre d’affaires.  
 - Le segment **Consumer** domine les ventes, ce qui suggère un potentiel de croissance dans les segments **Corporate** et **Home Office**.  
 
----
 
-## 🚀 Améliorations possibles
-- Connexion à une **source de données en direct** pour mise à jour automatique.  
-- Ajout de pages pour analyser plus en détail les performances produits/régions.  
-- Intégration de nouveaux KPI financiers comme la marge ou le coût d’acquisition.
